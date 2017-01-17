@@ -1,0 +1,18 @@
+mode: atomic
+github.com/jabong/florest-core/src/test/servicetest/config_initialize.go:8.23,15.2 4 1
+github.com/jabong/florest-core/src/test/servicetest/logger_initialize.go:7.23,9.2 1 1
+github.com/jabong/florest-core/src/test/servicetest/service_initialize.go:9.30,39.2 16 1
+github.com/jabong/florest-core/src/test/servicetest/service_initialize.go:41.25,43.2 0 0
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:10.55,15.61 4 1
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:15.61,17.3 1 1
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:20.78,25.31 5 1
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:29.2,30.28 2 1
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:25.31,28.3 2 2
+github.com/jabong/florest-core/src/test/servicetest/service_test_helper.go:30.28,34.3 3 2
+github.com/jabong/florest-core/src/test/servicetest/test_app_config.go:17.49,20.9 3 1
+github.com/jabong/florest-core/src/test/servicetest/test_app_config.go:25.2,25.22 1 1
+github.com/jabong/florest-core/src/test/servicetest/test_app_config.go:20.9,24.3 3 0
+github.com/jabong/florest-core/src/test/servicetest/test_web_server.go:12.80,20.2 4 2
+github.com/jabong/florest-core/src/test/servicetest/test_web_server.go:24.32,25.27 1 1
+github.com/jabong/florest-core/src/test/servicetest/test_web_server.go:25.27,27.3 1 1
+github.com/jabong/florest-core/src/test/servicetest/test_web_server.go:30.64,32.2 1 2

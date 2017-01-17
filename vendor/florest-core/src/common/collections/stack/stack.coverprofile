@@ -1,0 +1,20 @@
+mode: atomic
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:20.37,23.2 2 11
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:27.39,28.17 1 6
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:31.2,34.10 3 6
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:28.17,30.3 1 0
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:38.32,40.2 1 4
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:43.28,45.2 1 3
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:48.25,51.2 2 1
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:54.40,58.21 4 5
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:63.2,63.15 1 5
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:58.21,62.3 3 8
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:67.52,70.27 3 2
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:75.2,75.13 1 1
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:70.27,71.43 1 3
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:71.43,73.4 1 1
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:79.36,82.33 1 3
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:85.2,91.23 5 2
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:100.2,100.10 1 2
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:82.33,84.3 1 1
+github.com/jabong/florest-core/src/common/collections/stack/stack.go:91.23,98.3 4 2
